@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0002-add-two-numbers) |
+| [0142-linked-list-cycle-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0189-rotate-array) |
 ## Enumeration
