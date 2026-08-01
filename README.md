@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 ## Matrix
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0224-basic-calculator) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0486-predict-the-winner) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
