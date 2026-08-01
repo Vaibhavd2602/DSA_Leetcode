@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
 | ------- |
@@ -122,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
