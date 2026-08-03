@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0877-stone-game) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
@@ -154,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
