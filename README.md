@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0877-stone-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0326-power-of-three) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0204-count-primes) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0224-basic-calculator) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
