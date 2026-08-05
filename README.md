@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [3310-remove-methods-from-project](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -179,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
