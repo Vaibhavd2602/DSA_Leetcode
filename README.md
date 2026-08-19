@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1563-stone-game-v) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
