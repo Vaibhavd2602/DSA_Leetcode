@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0486-predict-the-winner](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Depth-First Search
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 ## Nim Game
 |  |
