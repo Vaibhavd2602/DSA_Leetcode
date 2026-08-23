@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2029-stone-game-ix) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0224-basic-calculator) |
+| [1927-sum-game](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
