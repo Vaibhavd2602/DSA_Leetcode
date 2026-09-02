@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0224-basic-calculator) |
+| [0520-detect-capital](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0520-detect-capital) |
 | [1927-sum-game](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
