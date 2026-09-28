@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0224-basic-calculator) |
 | [1096-brace-expansion-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Number Theory
 |  |
 | ------- |
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
