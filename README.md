@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0224-basic-calculator) |
 | [0520-detect-capital](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0520-detect-capital) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0224-basic-calculator) |
 | [1096-brace-expansion-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
