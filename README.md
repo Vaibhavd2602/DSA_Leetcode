@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vaibhavd2602/DSA_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
